@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.3.1"
+  version: "0.3.2"
 
 package:
   name: frustratometer
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/f/frustratometer/frustratometer-${{ version }}.tar.gz
-  sha256: 2c0e7897ebe24f87352f78d250a7af2e5048c6817959d5dfe97320add5e564d7
+  sha256: e20d3b84584449b2caea6c7dcdc3676c07c7abc3114cc49713d7b19c4207e229
 
 build:
   number: 0
